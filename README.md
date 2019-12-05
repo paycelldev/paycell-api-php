@@ -3,27 +3,25 @@
 backend:  php
 test ui:  Angular 8
 
-# Installation
+# Build
 
-## Build
-
-### TestUI: 
+## TestUI: 
 Npm should be installed on your computer.
 
 `cd testui && npm install`
     
-## Launch Application
+# Launch Application
 
-### Backend
+## Backend
 
 `php -t provisionServices -S localhost:8000`
 
-### TestUI
+## TestUI
 
 Angular Cli should be installed on your computer.
 
 `cd testui && ng serve`
 
-## Reach TestUI
+# Reach TestUI
 
 You can reach testUI by browsing "http://localhost:4200/".
