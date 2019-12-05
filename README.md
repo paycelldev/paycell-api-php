@@ -1,7 +1,7 @@
 # Requirements
 
-backend:  php
-test ui:  Angular 8
+* backend:  php
+* test ui:  Angular 8
 
 # Build
 
